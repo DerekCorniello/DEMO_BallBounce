@@ -1,2 +1,2 @@
-# DEMO_IntroToUnity
+# DEMO_BallBounce
 This is the first project I made while learning Unity
